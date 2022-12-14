@@ -1,7 +1,6 @@
 # Unity Team Generator
 
 ## Table of Contents
-* [License](#license)  
 * [Description](#description)
 * [Installation](#installation)
 * [Testing](#testing)
@@ -10,13 +9,10 @@
 ## Description <a name="description"></a>   
 An application to receive input from the user about employees and generate a styled webpage  . 
 
-## Screenshot 
+## Video 
 
-## URL [URL] (https://github.com/marissa-a-darr/unity-team-generator)
+*post video of working app here
 
-## License <a name="license"></a>  
-None 
-* 
 
 ## Installation <a name="installation"></a>  
 To install, run ```npm i``` in the project root.
@@ -29,4 +25,3 @@ To install, run ```npm i``` in the project root.
 ## Questions <a name="questions"></a>  
 * [Github](https://github.com/marissa-a-darr)
 * Email: mrsaanadee@gmail.com
-* Other Contact: 
