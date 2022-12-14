@@ -1,0 +1,27 @@
+{
+  "name": "unity-team-generator",
+  "version": "1.0.0",
+  "description": "* [License](#license)  \r * [Description](#description)\r * [Installation](#installation)\r * [Testing](#testing)\r * [Questions](#questions)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marissa-a-darr/unity-team-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marissa-a-darr/unity-team-generator/issues"
+  },
+  "homepage": "https://github.com/marissa-a-darr/unity-team-generator#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.4"
+  }
+}
